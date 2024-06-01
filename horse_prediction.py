@@ -1,3 +1,9 @@
+# # https://www.kaggle.com/competitions/playground-series-s4e5/overview
+# Made by Hüseyin Battal.
+# GitHub: https://github.com/Husolm
+# LinkedIn: https://www.linkedin.com/in/huseyin-battal/
+
+
 import warnings
 from required_functions import *
 
