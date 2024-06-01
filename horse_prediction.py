@@ -91,6 +91,9 @@ X = dff2_train.drop("outcome",axis=1)
 y = dff2_train["outcome"]
 X_test_df = dff2_test.drop("outcome",axis=1)
 
+# Note: hyperparameter_multiclass_optimization function have changed so many times. Please check it again its code.
+# You should uncomment models inside in function if the result is not good.
+
 best_models = hyperparameter_multiclass_optimization(X,y,cv=5)
 final_model = voting_model(best_models, X, y,5,is_multiclass=True)
 final_model.fit(X, y)
