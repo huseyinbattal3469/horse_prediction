@@ -1,6 +1,6 @@
 # https://www.kaggle.com/competitions/playground-series-s3e22
 # Made by Hüseyin Battal.
-# GitHub: https://github.com/Husolm
+# GitHub: https://github.com/huseyinbattal3469
 # LinkedIn: https://www.linkedin.com/in/huseyin-battal/
 
 
